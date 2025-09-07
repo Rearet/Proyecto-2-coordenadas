@@ -1,7 +1,7 @@
 
 # Proyecto 2 Validacion y operaciones de datos
 
-## 📌 Descripción  
+## Descripción  
 Este segundo proyecto contiene dos programas solicitados de logitud de palabra y ubicaicon de cuadrante los cuales se detallan a continuacion: 
 
 1. **Longitud de una palabra**  
